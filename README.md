@@ -18,6 +18,4 @@ The table of contents of the repository is as follows.
 
    1.1. Diagnosis of failure types of time series rotating machinery data based on deep neural network 
 
-   [click here to view](https://github.com/HanMinung/machine_learning-deep_learning/tree/main/KAMP_dataset_study/Diagnosis%20of%20failure%20types%20of%20time%20series%20rotating%20machinery%20data%20based%20on%20deep%20neural%20network)
-   
    
